@@ -1,0 +1,16 @@
+export default ({
+    title: 'Registrarse',
+    name: 'Nombre',
+    surname: 'Apellido',
+    phone: 'Celular',
+    address: 'Dirección',
+    state: 'Provincia',
+    zipCode: 'CP',
+    city: 'Ciudad',
+    areaCode: 'Cod Area',
+    countryCode: 'Cod País',
+    cnf: '',
+    cnh: 'Licencia de conducir',
+    titlefind: 'Ingrese',
+    buttonfind: 'Continuar',
+});

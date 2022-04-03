@@ -1,0 +1,7 @@
+export default ({
+    title: 'Terminos y condiciones',
+    agree: 'Acepto los terminos y condiciones',
+    termsBody: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis fermentum ex ac faucibus. Pellentesque volutpat ex mi, imperdiet semper diam mollis id. Ut et erat et elit consectetur congue quis et dui. Sed ac ante et nisi placerat tristique ut vel magna. Duis vehicula risus erat, vitae porttitor libero congue at. Praesent non vehicula lectus. In eu lorem sed velit semper dignissim non in augue.\n' +
+        '\n' +
+        'Morbi scelerisque efficitur ex, in vestibulum ex accumsan vitae. Curabitur porta sapien non nunc hendrerit, vel sagittis magna pharetra. Mauris varius ligula a nibh mattis elementum. Donec fringilla, eros et facilisis bibendum, felis lacus posuere dolor, sed lobortis magna quam porta nunc. Sed sed euismod nibh. Aliquam at tincidunt enim, id molestie justo. Ut imperdiet ipsum id consectetur rutrum. Vivamus semper feugiat porta. Donec sagittis vulputate ligula, a dictum eros fermentum vel. Duis a convallis metus. Duis sollicitudin odio et porta pellentesque. In sagittis felis auctor nunc venenatis tempor. Curabitur ac luctus lorem. Praesent non metus ante. Pellentesque auctor ex vitae nulla mollis, aliquet porttitor elit euismod.'
+});
