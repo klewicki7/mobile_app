@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "AppCounter-tvOS.app"
-               BlueprintName = "AppCounter-tvOS"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudio-tvOS.app"
+               BlueprintName = "AppEstudio-tvOS"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AppCounter-tvOSTests.xctest"
-               BlueprintName = "AppCounter-tvOSTests"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudio-tvOSTests.xctest"
+               BlueprintName = "AppEstudio-tvOSTests"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AppCounter-tvOSTests.xctest"
-               BlueprintName = "AppCounter-tvOSTests"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudio-tvOSTests.xctest"
+               BlueprintName = "AppEstudio-tvOSTests"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppCounter-tvOS.app"
-            BlueprintName = "AppCounter-tvOS"
-            ReferencedContainer = "container:AppCounter.xcodeproj">
+            BuildableName = "AppEstudio-tvOS.app"
+            BlueprintName = "AppEstudio-tvOS"
+            ReferencedContainer = "container:AppEstudio.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppCounter-tvOS.app"
-            BlueprintName = "AppCounter-tvOS"
-            ReferencedContainer = "container:AppCounter.xcodeproj">
+            BuildableName = "AppEstudio-tvOS.app"
+            BlueprintName = "AppEstudio-tvOS"
+            ReferencedContainer = "container:AppEstudio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AppCounter-tvOS.app"
-            BlueprintName = "AppCounter-tvOS"
-            ReferencedContainer = "container:AppCounter.xcodeproj">
+            BuildableName = "AppEstudio-tvOS.app"
+            BlueprintName = "AppEstudio-tvOS"
+            ReferencedContainer = "container:AppEstudio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

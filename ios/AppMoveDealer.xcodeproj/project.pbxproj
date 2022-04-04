@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00BF997EE9FCB5D5E41BE9BE /* libPods-AppCounter-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCC81A727FB4B618C8806AF /* libPods-AppCounter-tvOS.a */; };
+		00BF997EE9FCB5D5E41BE9BE /* libPods-AppEstudio-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCC81A727FB4B618C8806AF /* libPods-AppEstudio-tvOS.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		3138989C30C38A65D44A4130 /* libPods-AppCounter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 233CB71160090BE118FDC8A4 /* libPods-AppCounter.a */; };
-		CB2D8813E9FC0B267B6D1097 /* libPods-AppCounter-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F718397EC080CB4799EFED5 /* libPods-AppCounter-tvOSTests.a */; };
+		3138989C30C38A65D44A4130 /* libPods-AppEstudio.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 233CB71160090BE118FDC8A4 /* libPods-AppEstudio.a */; };
+		CB2D8813E9FC0B267B6D1097 /* libPods-AppEstudio-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F718397EC080CB4799EFED5 /* libPods-AppEstudio-tvOSTests.a */; };
 		CE4217E525A3C7CF00FEA4E8 /* libreact-native-webview.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE4217E425A3C7CF00FEA4E8 /* libreact-native-webview.a */; };
 		CE4217F225A3D8B100FEA4E8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE4217F125A3D8B000FEA4E8 /* Info.plist */; };
 		CE956D40259BCA4B003264A9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE956D3F259BCA4A003264A9 /* Default-568h@2x.png */; };
-		EF054235474A3CA732535215 /* libPods-AppCounter-AppCounterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D756EEBD8F3E8A2BACBED925 /* libPods-AppCounter-AppCounterTests.a */; };
+		EF054235474A3CA732535215 /* libPods-AppEstudio-AppEstudioTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D756EEBD8F3E8A2BACBED925 /* libPods-AppEstudio-AppEstudioTests.a */; };
 		C6CEEB4DA8EA4C0D834A9929 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EE2C5D568ED49CD98FCFB40 /* AntDesign.ttf */; };
 		44F5C65E3955462A85F2BBA9 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5945DC8ED0F74636B07C3482 /* Entypo.ttf */; };
 		7A0FEE5A3C4944F7A5D3DD7E /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F3D574AAEBB4209A54DD133 /* EvilIcons.ttf */; };
@@ -46,45 +46,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = AppCounter;
+			remoteInfo = AppEstudio;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "AppCounter-tvOS";
+			remoteInfo = "AppEstudio-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* AppCounterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppCounterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* AppEstudioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppEstudioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AppMoveDealerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppMoveDealerTests.m; path = AppMoveDealerTests/AppMoveDealerTests.m; sourceTree = SOURCE_ROOT; };
-		0F6DEE796E28473D5E9C6BD2 /* Pods-AppCounter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter.release.xcconfig"; path = "Target Support Files/Pods-AppCounter/Pods-AppCounter.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* AppCounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppCounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F6DEE796E28473D5E9C6BD2 /* Pods-AppEstudio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio.release.xcconfig"; path = "Target Support Files/Pods-AppEstudio/Pods-AppEstudio.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* AppEstudio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppEstudio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AppMoveDealer/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = AppMoveDealer/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AppMoveDealer/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AppMoveDealer/main.m; sourceTree = "<group>"; };
-		180267F373BCFC07953AB58F /* Pods-AppCounter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter.debug.xcconfig"; path = "Target Support Files/Pods-AppCounter/Pods-AppCounter.debug.xcconfig"; sourceTree = "<group>"; };
-		1BA9D2CB8F94242DD9AF6940 /* Pods-AppCounter-AppCounterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-AppCounterTests.release.xcconfig"; path = "Target Support Files/Pods-AppCounter-AppCounterTests/Pods-AppCounter-AppCounterTests.release.xcconfig"; sourceTree = "<group>"; };
-		233CB71160090BE118FDC8A4 /* libPods-AppCounter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppCounter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E47B1E0B4A5D006451C7 /* AppCounter-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AppCounter-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* AppCounter-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AppCounter-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F718397EC080CB4799EFED5 /* libPods-AppCounter-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppCounter-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5103D30BABDF058160ACDF4A /* Pods-AppCounter-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AppCounter-tvOS/Pods-AppCounter-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		5DCC81A727FB4B618C8806AF /* libPods-AppCounter-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppCounter-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		821176AB4B26BA8F31EBFF6C /* Pods-AppCounter-AppCounterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-AppCounterTests.debug.xcconfig"; path = "Target Support Files/Pods-AppCounter-AppCounterTests/Pods-AppCounter-AppCounterTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B5E80B1B847122F1C31638DC /* Pods-AppCounter-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-AppCounter-tvOS/Pods-AppCounter-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		CD1E33F1D307B02F4F43C246 /* Pods-AppCounter-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AppCounter-tvOSTests/Pods-AppCounter-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		180267F373BCFC07953AB58F /* Pods-AppEstudio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio.debug.xcconfig"; path = "Target Support Files/Pods-AppEstudio/Pods-AppEstudio.debug.xcconfig"; sourceTree = "<group>"; };
+		1BA9D2CB8F94242DD9AF6940 /* Pods-AppEstudio-AppEstudioTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-AppEstudioTests.release.xcconfig"; path = "Target Support Files/Pods-AppEstudio-AppEstudioTests/Pods-AppEstudio-AppEstudioTests.release.xcconfig"; sourceTree = "<group>"; };
+		233CB71160090BE118FDC8A4 /* libPods-AppEstudio.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppEstudio.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* AppEstudio-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AppEstudio-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* AppEstudio-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AppEstudio-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F718397EC080CB4799EFED5 /* libPods-AppEstudio-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppEstudio-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5103D30BABDF058160ACDF4A /* Pods-AppEstudio-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AppEstudio-tvOS/Pods-AppEstudio-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		5DCC81A727FB4B618C8806AF /* libPods-AppEstudio-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppEstudio-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		821176AB4B26BA8F31EBFF6C /* Pods-AppEstudio-AppEstudioTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-AppEstudioTests.debug.xcconfig"; path = "Target Support Files/Pods-AppEstudio-AppEstudioTests/Pods-AppEstudio-AppEstudioTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B5E80B1B847122F1C31638DC /* Pods-AppEstudio-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-AppEstudio-tvOS/Pods-AppEstudio-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		CD1E33F1D307B02F4F43C246 /* Pods-AppEstudio-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AppEstudio-tvOSTests/Pods-AppEstudio-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		CE4217E425A3C7CF00FEA4E8 /* libreact-native-webview.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libreact-native-webview.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4217F125A3D8B000FEA4E8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AppMoveDealer/Info.plist; sourceTree = "<group>"; };
 		CE956D3F259BCA4A003264A9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		D756EEBD8F3E8A2BACBED925 /* libPods-AppCounter-AppCounterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppCounter-AppCounterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D756EEBD8F3E8A2BACBED925 /* libPods-AppEstudio-AppEstudioTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppEstudio-AppEstudioTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F4D11951CCF69C449C28617D /* Pods-AppCounter-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppCounter-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AppCounter-tvOSTests/Pods-AppCounter-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		F4D11951CCF69C449C28617D /* Pods-AppEstudio-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppEstudio-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AppEstudio-tvOSTests/Pods-AppEstudio-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		2EE2C5D568ED49CD98FCFB40 /* AntDesign.ttf */ = {isa = PBXFileReference; name = "AntDesign.ttf"; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		5945DC8ED0F74636B07C3482 /* Entypo.ttf */ = {isa = PBXFileReference; name = "Entypo.ttf"; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		7F3D574AAEBB4209A54DD133 /* EvilIcons.ttf */ = {isa = PBXFileReference; name = "EvilIcons.ttf"; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
@@ -111,7 +111,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF054235474A3CA732535215 /* libPods-AppCounter-AppCounterTests.a in Frameworks */,
+				EF054235474A3CA732535215 /* libPods-AppEstudio-AppEstudioTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,7 +120,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4217E525A3C7CF00FEA4E8 /* libreact-native-webview.a in Frameworks */,
-				3138989C30C38A65D44A4130 /* libPods-AppCounter.a in Frameworks */,
+				3138989C30C38A65D44A4130 /* libPods-AppEstudio.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,7 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00BF997EE9FCB5D5E41BE9BE /* libPods-AppCounter-tvOS.a in Frameworks */,
+				00BF997EE9FCB5D5E41BE9BE /* libPods-AppEstudio-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,21 +136,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB2D8813E9FC0B267B6D1097 /* libPods-AppCounter-tvOSTests.a in Frameworks */,
+				CB2D8813E9FC0B267B6D1097 /* libPods-AppEstudio-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* AppCounterTests */ = {
+		00E356EF1AD99517003FC87E /* AppEstudioTests */ = {
 			isa = PBXGroup;
 			children = (
 				00E356F21AD99517003FC87E /* AppMoveDealerTests.m */,
 				00E356F11AD99517003FC87E /* Info.plist */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			name = AppCounterTests;
+			name = AppEstudioTests;
 			path = AppMoveDealerTests;
 			sourceTree = "<group>";
 		};
@@ -164,19 +164,19 @@
 		01E680DB2B8868B90FC69F41 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				180267F373BCFC07953AB58F /* Pods-AppCounter.debug.xcconfig */,
-				0F6DEE796E28473D5E9C6BD2 /* Pods-AppCounter.release.xcconfig */,
-				821176AB4B26BA8F31EBFF6C /* Pods-AppCounter-AppCounterTests.debug.xcconfig */,
-				1BA9D2CB8F94242DD9AF6940 /* Pods-AppCounter-AppCounterTests.release.xcconfig */,
-				B5E80B1B847122F1C31638DC /* Pods-AppCounter-tvOS.debug.xcconfig */,
-				5103D30BABDF058160ACDF4A /* Pods-AppCounter-tvOS.release.xcconfig */,
-				CD1E33F1D307B02F4F43C246 /* Pods-AppCounter-tvOSTests.debug.xcconfig */,
-				F4D11951CCF69C449C28617D /* Pods-AppCounter-tvOSTests.release.xcconfig */,
+				180267F373BCFC07953AB58F /* Pods-AppEstudio.debug.xcconfig */,
+				0F6DEE796E28473D5E9C6BD2 /* Pods-AppEstudio.release.xcconfig */,
+				821176AB4B26BA8F31EBFF6C /* Pods-AppEstudio-AppEstudioTests.debug.xcconfig */,
+				1BA9D2CB8F94242DD9AF6940 /* Pods-AppEstudio-AppEstudioTests.release.xcconfig */,
+				B5E80B1B847122F1C31638DC /* Pods-AppEstudio-tvOS.debug.xcconfig */,
+				5103D30BABDF058160ACDF4A /* Pods-AppEstudio-tvOS.release.xcconfig */,
+				CD1E33F1D307B02F4F43C246 /* Pods-AppEstudio-tvOSTests.debug.xcconfig */,
+				F4D11951CCF69C449C28617D /* Pods-AppEstudio-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* AppCounter */ = {
+		13B07FAE1A68108700A75B9A /* AppEstudio */ = {
 			isa = PBXGroup;
 			children = (
 				CE4217F125A3D8B000FEA4E8 /* Info.plist */,
@@ -185,7 +185,7 @@
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = AppCounter;
+			name = AppEstudio;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -194,10 +194,10 @@
 				CE4217E425A3C7CF00FEA4E8 /* libreact-native-webview.a */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				233CB71160090BE118FDC8A4 /* libPods-AppCounter.a */,
-				D756EEBD8F3E8A2BACBED925 /* libPods-AppCounter-AppCounterTests.a */,
-				5DCC81A727FB4B618C8806AF /* libPods-AppCounter-tvOS.a */,
-				2F718397EC080CB4799EFED5 /* libPods-AppCounter-tvOSTests.a */,
+				233CB71160090BE118FDC8A4 /* libPods-AppEstudio.a */,
+				D756EEBD8F3E8A2BACBED925 /* libPods-AppEstudio-AppEstudioTests.a */,
+				5DCC81A727FB4B618C8806AF /* libPods-AppEstudio-tvOS.a */,
+				2F718397EC080CB4799EFED5 /* libPods-AppEstudio-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -213,9 +213,9 @@
 			isa = PBXGroup;
 			children = (
 				CE956D3F259BCA4A003264A9 /* Default-568h@2x.png */,
-				13B07FAE1A68108700A75B9A /* AppCounter */,
+				13B07FAE1A68108700A75B9A /* AppEstudio */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* AppCounterTests */,
+				00E356EF1AD99517003FC87E /* AppEstudioTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				01E680DB2B8868B90FC69F41 /* Pods */,
@@ -229,10 +229,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* AppCounter.app */,
-				00E356EE1AD99517003FC87E /* AppCounterTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* AppCounter-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* AppCounter-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* AppEstudio.app */,
+				00E356EE1AD99517003FC87E /* AppEstudioTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* AppEstudio-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* AppEstudio-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -267,9 +267,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* AppCounterTests */ = {
+		00E356ED1AD99517003FC87E /* AppEstudioTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppCounterTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppEstudioTests" */;
 			buildPhases = (
 				ADF7EC3D5E7EFACE03E90F74 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -281,14 +281,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = AppCounterTests;
-			productName = AppCounterTests;
-			productReference = 00E356EE1AD99517003FC87E /* AppCounterTests.xctest */;
+			name = AppEstudioTests;
+			productName = AppEstudioTests;
+			productReference = 00E356EE1AD99517003FC87E /* AppEstudioTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* AppCounter */ = {
+		13B07F861A680F5B00A75B9A /* AppEstudio */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppCounter" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppEstudio" */;
 			buildPhases = (
 				FF04A318C867FC1F3B037C89 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -301,14 +301,14 @@
 			);
 			dependencies = (
 			);
-			name = AppCounter;
-			productName = AppCounter;
-			productReference = 13B07F961A680F5B00A75B9A /* AppCounter.app */;
+			name = AppEstudio;
+			productName = AppEstudio;
+			productReference = 13B07F961A680F5B00A75B9A /* AppEstudio.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* AppCounter-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* AppEstudio-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppCounter-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppEstudio-tvOS" */;
 			buildPhases = (
 				F1857E4235F6B3967F2E22EE /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -321,14 +321,14 @@
 			);
 			dependencies = (
 			);
-			name = "AppCounter-tvOS";
-			productName = "AppCounter-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* AppCounter-tvOS.app */;
+			name = "AppEstudio-tvOS";
+			productName = "AppEstudio-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* AppEstudio-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* AppCounter-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* AppEstudio-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppCounter-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppEstudio-tvOSTests" */;
 			buildPhases = (
 				D2EED33EEBCC3899B747064A /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -340,9 +340,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "AppCounter-tvOSTests";
-			productName = "AppCounter-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* AppCounter-tvOSTests.xctest */;
+			name = "AppEstudio-tvOSTests";
+			productName = "AppEstudio-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* AppEstudio-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -385,10 +385,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* AppCounter */,
-				00E356ED1AD99517003FC87E /* AppCounterTests */,
-				2D02E47A1E0B4A5D006451C7 /* AppCounter-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* AppCounter-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* AppEstudio */,
+				00E356ED1AD99517003FC87E /* AppEstudioTests */,
+				2D02E47A1E0B4A5D006451C7 /* AppEstudio-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* AppEstudio-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -491,7 +491,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppCounter-AppCounterTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-AppEstudio-AppEstudioTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -513,7 +513,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppCounter-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-AppEstudio-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -535,7 +535,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppCounter-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-AppEstudio-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -587,7 +587,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppCounter-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-AppEstudio-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -633,12 +633,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* AppCounter */;
+			target = 13B07F861A680F5B00A75B9A /* AppEstudio */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* AppCounter-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* AppEstudio-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -646,14 +646,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 821176AB4B26BA8F31EBFF6C /* Pods-AppCounter-AppCounterTests.debug.xcconfig */;
+			baseConfigurationReference = 821176AB4B26BA8F31EBFF6C /* Pods-AppEstudio-AppEstudioTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = AppCounterTests/Info.plist;
+				INFOPLIST_FILE = AppEstudioTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -663,17 +663,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppCounter.app/AppCounter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppEstudio.app/AppEstudio";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1BA9D2CB8F94242DD9AF6940 /* Pods-AppCounter-AppCounterTests.release.xcconfig */;
+			baseConfigurationReference = 1BA9D2CB8F94242DD9AF6940 /* Pods-AppEstudio-AppEstudioTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = AppCounterTests/Info.plist;
+				INFOPLIST_FILE = AppEstudioTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -683,13 +683,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppCounter.app/AppCounter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppEstudio.app/AppEstudio";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 180267F373BCFC07953AB58F /* Pods-AppCounter.debug.xcconfig */;
+			baseConfigurationReference = 180267F373BCFC07953AB58F /* Pods-AppEstudio.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
@@ -704,7 +704,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = AppCounter;
+				PRODUCT_NAME = AppEstudio;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -712,7 +712,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0F6DEE796E28473D5E9C6BD2 /* Pods-AppCounter.release.xcconfig */;
+			baseConfigurationReference = 0F6DEE796E28473D5E9C6BD2 /* Pods-AppEstudio.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
@@ -726,7 +726,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = AppCounter;
+				PRODUCT_NAME = AppEstudio;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -734,7 +734,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B5E80B1B847122F1C31638DC /* Pods-AppCounter-tvOS.debug.xcconfig */;
+			baseConfigurationReference = B5E80B1B847122F1C31638DC /* Pods-AppEstudio-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -745,14 +745,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "AppCounter-tvOS/Info.plist";
+				INFOPLIST_FILE = "AppEstudio-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppCounter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppEstudio-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -762,7 +762,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5103D30BABDF058160ACDF4A /* Pods-AppCounter-tvOS.release.xcconfig */;
+			baseConfigurationReference = 5103D30BABDF058160ACDF4A /* Pods-AppEstudio-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -773,14 +773,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "AppCounter-tvOS/Info.plist";
+				INFOPLIST_FILE = "AppEstudio-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppCounter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppEstudio-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -790,7 +790,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD1E33F1D307B02F4F43C246 /* Pods-AppCounter-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = CD1E33F1D307B02F4F43C246 /* Pods-AppEstudio-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -800,24 +800,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "AppCounter-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "AppEstudio-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppCounter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppEstudio-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppCounter-tvOS.app/AppCounter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppEstudio-tvOS.app/AppEstudio-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F4D11951CCF69C449C28617D /* Pods-AppCounter-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = F4D11951CCF69C449C28617D /* Pods-AppEstudio-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -827,17 +827,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "AppMoAppCounterveDealer-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "AppMoAppEstudioveDealer-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppCounter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.AppEstudio-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppCounter-tvOS.app/AppCounter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppEstudio-tvOS.app/AppEstudio-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -944,7 +944,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppCounterTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppEstudioTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -953,7 +953,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppCounter" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppEstudio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -962,7 +962,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppCounter-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppEstudio-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -971,7 +971,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppCounter-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AppEstudio-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,

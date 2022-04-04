@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "AppCounter.app"
-               BlueprintName = "AppCounter"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudio.app"
+               BlueprintName = "AppEstudio"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "AppCounterTests.xctest"
-               BlueprintName = "AppCounterTests"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudioTests.xctest"
+               BlueprintName = "AppEstudioTests"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "AppCounterTests.xctest"
-               BlueprintName = "AppCounterTests"
-               ReferencedContainer = "container:AppCounter.xcodeproj">
+               BuildableName = "AppEstudioTests.xctest"
+               BlueprintName = "AppEstudioTests"
+               ReferencedContainer = "container:AppEstudio.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,8 +71,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AppCounter.app"
-            BlueprintName = "AppCounter"
+            BuildableName = "AppEstudio.app"
+            BlueprintName = "AppEstudio"
             ReferencedContainer = "container:AppMoveDealer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -94,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AppCounter.app"
-            BlueprintName = "AppCounter"
+            BuildableName = "AppEstudio.app"
+            BlueprintName = "AppEstudio"
             ReferencedContainer = "container:AppMoveDealer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AppCounter.app"
-            BlueprintName = "AppCounter"
-            ReferencedContainer = "container:AppCounter.xcodeproj">
+            BuildableName = "AppEstudio.app"
+            BlueprintName = "AppEstudio"
+            ReferencedContainer = "container:AppEstudio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

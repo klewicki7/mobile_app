@@ -3,8 +3,7 @@ import { StyleSheet } from 'react-native';
 import { Container, Content } from 'native-base';
 
 
-export default function OtherScreen(props) {
-
+export default function CalendaryScreen(props) {
     return (
         <Container>
             <Content>
@@ -14,5 +13,5 @@ export default function OtherScreen(props) {
 }
 
 const styles = StyleSheet.create({
-   
 });
+

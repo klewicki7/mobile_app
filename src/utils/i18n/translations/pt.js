@@ -60,7 +60,7 @@ export default ({
     resetPassword: resetPassword['pt'],
     signature: signature['pt'],
     errors: errors['pt'],
-    appNameFull: 'AppCounter',
+    appNameFull: 'AppEstudio',
     appName1: 'App',
     appName2: 'Counter',
     appName3: '',

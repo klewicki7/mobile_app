@@ -3,7 +3,8 @@ import actions from "../redux/actions";
 import ListadoScreen from '../screens/ListadoScreen';
 
 const mapStateToProps = (state) => ({
-    datos : state.user.dataClient
+    Colors : state.auth.Colors,
+    DATA : state.auth.DATA
 });
 
 const mapDispatchToProps = dispatch => ({

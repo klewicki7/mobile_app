@@ -1,13 +1,12 @@
-import Initial from '../containers/Initial'
+import Calendary from '../containers/Calendary'
 import Other from '../containers/Other'
 import Listado from '../containers/Listado'
-import Registro from '../containers/Registro'
+
 
 
 
 export const HomeScreens = {
-   Initial,
+   Calendary,
    Other,
-   Listado,
-   Registro
+   Listado
 };
